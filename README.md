@@ -10,6 +10,9 @@
 
 
 ### My Projects
+*[Yira software - jira software clone](https://yira-jira-clone.onrender.com/)
+*[Anya - Etsy clone](https://anya-etsy.onrender.com/)
+*[Airdnd - airbnb clone](https://my-first-project-airbnb.herokuapp.com/)
 
 <!--
 **yashayang/yashayang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
