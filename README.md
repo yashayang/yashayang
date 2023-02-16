@@ -1,5 +1,5 @@
 ### Hi 👋, my name is Yasha Yang! 
-  I am a full-stack software engineer with a 7 yrs project manager background. I love to work effectively and efficiently, and have experience to focusing on details and working in any team enviorment. I have always enjoyed logical thinking and problem solving, no matter if I am a PM or software engineer. I have a master degree in Information System, and a bachelor degree in managment information system.
+  I am a seasoned full-stack software engineer with a rich background in project management spanning over seven years. My work approach is characterized by efficiency, effectiveness, and a meticulous attention to detail, all of which enable me to excel in diverse team environments. As a professional with a master's degree in Information Systems and a bachelor's degree in Management Information Systems, I have consistently demonstrated a passion for logical thinking and problem-solving, whether in my capacity as a project manager or software engineer.
 
 <hr>
 
