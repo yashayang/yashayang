@@ -31,3 +31,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+![Nannan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeznn&theme=omni&custom_title=Languages&langs_count=4)
+![Nannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeznn&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
+</br>
+-->
+![Nannan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=codeznn&theme=tokyonight&hide_border=false)<br/><!--
+![Nannan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeznn&theme=omni&custom_title=Languages&langs_count=4)
+![Nannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeznn&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
+</br>
+-->
+![Nannan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=codeznn&theme=tokyonight&hide_border=false)<br/>
