@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 ![yashayang's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashayang&theme=omni&custom_title=Languages&langs_count=4)
 ![yashayang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashayang&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
 </br>
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 ![yashayang's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashayang&theme=omni&custom_title=Languages&langs_count=4)
 ![yashayang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashayang&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
 </br>
--->
+
