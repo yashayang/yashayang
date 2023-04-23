@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!-- 
 ![yashayang's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=yashayang&theme=tokyonight&hide_border=false)<br/> -->
 ![yashayang's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashayang&theme=omni&custom_title=Languages&langs_count=4)
-![yashayang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashayang&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
+<!-- ![yashayang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashayang&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40) -->
 </br>
 
 ![](https://komarev.com/ghpvc/?username=yashayang&style=for-the-badge)
