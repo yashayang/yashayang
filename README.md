@@ -14,7 +14,7 @@
 
 ### My Projects
 * [Yira software - jira software clone](https://yira-jira-clone.onrender.com/)
-* [Anya - Etsy clone](https://anya-etsy.onrender.com/)
+* [Anya - Etsy clone](https://anya-9yn7.onrender.com/)
 * [Airdnd - airbnb clone](https://my-first-project-airbnb.herokuapp.com/)
 
 <!--
